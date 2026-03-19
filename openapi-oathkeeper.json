@@ -1,0 +1,22 @@
+{
+    "version": "0.7.15",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cerberauth/openapi-oathkeeper/releases/download/v0.7.15/openapi-oathkeeper_Windows_i386.zip",
+            "bin": [
+                "openapi-oathkeeper.exe"
+            ],
+            "hash": "5abe1df97f7d48aadb1b655ed7ecee2ad0afd61325dcdd8e76e3e50e05ca0805"
+        },
+        "64bit": {
+            "url": "https://github.com/cerberauth/openapi-oathkeeper/releases/download/v0.7.15/openapi-oathkeeper_Windows_x86_64.zip",
+            "bin": [
+                "openapi-oathkeeper.exe"
+            ],
+            "hash": "c179e29a42473386c8f40e01f859b372cae27d49b274ae336131fb22d0a9faca"
+        }
+    },
+    "homepage": "https://github.com/cerberauth/openapi-oathkeeper",
+    "license": "MIT",
+    "description": "Generate Ory Oathkeeper access rules from an OpenAPI 3 contract."
+}
