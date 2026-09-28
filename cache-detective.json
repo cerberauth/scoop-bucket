@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cerberauth/cache-detective/releases/download/v0.0.1/cache-detective_Windows_i386.zip",
+            "bin": [
+                "cache-detective.exe"
+            ],
+            "hash": "011d24d168dd475644570a1728fad2920aeb1ae28f8a9602e70fe14612a8f6b1"
+        },
+        "64bit": {
+            "url": "https://github.com/cerberauth/cache-detective/releases/download/v0.0.1/cache-detective_Windows_x86_64.zip",
+            "bin": [
+                "cache-detective.exe"
+            ],
+            "hash": "1c3c08dd85b42cba455b38269e9ed61144f81e9b26749cbfaa3a186418ebb3b4"
+        }
+    },
+    "homepage": "https://github.com/cerberauth/cache-detective",
+    "license": "MIT",
+    "description": "HTTP cache \u0026 CDN behavior analysis CLI - cacheability, live cache state, CDN fingerprinting, and cache poisoning/deception checks."
+}
